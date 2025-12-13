@@ -17,16 +17,16 @@
 - Web development 
 
 ## 🚀 Featured Projects
-  -**Campus Resource Booking System**  
-    Web and Mobile app for managing university facilities
-    Tech: Laravel, MySQL, React  
-    Role: Full Stack
-    visit: http://192.168.5.20/crba
-  -**The Strategy-Led Church**
-    Church website 
-    Tech: Laravel, MySQL 
-    Role: Full Stack
-    visit: (https://www.thestrategy-ledchurch.com/)
+  - **Campus Resource Booking System**  
+    - Web and Mobile app for managing university facilities
+    - Tech: Laravel, MySQL, React  
+    - Role: Full Stack
+    - visit: http://192.168.5.20/crba
+  - **The Strategy-Led Church**
+    - Church website 
+    - Tech: Laravel, MySQL 
+    - Role: Full Stack
+    - visit: (https://www.thestrategy-ledchurch.com/)
 
 ## 📚 Currently Learning
   - Network Security & Firewalls
