@@ -15,3 +15,30 @@
 ## 📌 Specific Focus
 - Mobile app development 
 - Web development 
+
+##🚀 Featured Projects
+**Campus Resource Booking System**  
+  Web and Mobile app for managing university facilities
+  Tech: Laravel, MySQL, React  
+  Role: Full Stack
+  visit: http://192.168.5.20/crba
+**The Strategy-Led Church**
+  Church website 
+  Tech: Laravel, MySQL 
+  Role: Full Stack
+  visit: (https://www.thestrategy-ledchurch.com/)
+
+##📚 Currently Learning
+- Network Security & Firewalls
+- Cybersecurity essentials 
+- Clean architecture in Flutter
+
+##🎓 Certifications & Training
+  - Ethical Hacker from Cisco Network Academy 
+  - Cybersecurity in age of AI: Sector-Specific Threats and Defence from EC-Council
+
+##🤝 Soft Skills
+  - Team collaboration
+  - Technical documentation
+  - Problem solving
+  - Time management
