@@ -1,10 +1,10 @@
 # Hello 👋 I'm Hastings Chitenje 
 
-[Portfolio](https://github.com/Hastings2004) • [LinkedIn](https://www.linkedin.com/in/hastings-chitenje-482b85389/) 
+[Portfolio](https://github.com/Hastings2004) • [LinkedIn](https://www.linkedin.com/in/hastings-chitenje-482b85389/) • [Email](hastingschitenje@yahoo.com) 
 
 ## 🚀 About Me
-- Software Engineer / ICT Student
-- Mzuzu Universit, Malawi
+- Software Engineer / ICT Student at Mzuzu University 
+- Mzuzu University, Malawi
 
 ## 🛠 Tech Stack
 - Languages: PHP, JavaScript, Dart
