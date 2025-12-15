@@ -21,21 +21,26 @@
     - Web and Mobile app for managing university facilities
     - Tech: Laravel, MySQL, React  
     - Role: Full Stack
-    - visit: http://192.168.5.20/crba
+    - visit: http://192.168.5.20/crba (accessible in local area network)
   - **The Strategy-Led Church**
     - Church website 
     - Tech: Laravel, MySQL 
     - Role: Full Stack
     - visit: (https://www.thestrategy-ledchurch.com/)
+  - **Kwera Digital Library**
+    - Online Library for Mzuzu University Kwera Students Climbers
+    - Tech: Laravel, MySQL
+    - Role: Full Stack
 
 ## 📚 Currently Learning
   - Network Security & Firewalls
-  - Cybersecurity essentials 
   - Clean architecture in Flutter
 
 ## 🎓 Certifications & Training
   - Ethical Hacker from Cisco Network Academy 
   - Cybersecurity in age of AI: Sector-Specific Threats and Defence from EC-Council
+  - Cybersecurity Essentials offered by Mzuzu University through the Cisco Networking Academy program.
+  - UNESCO hackerthone 2025
 
 ## 🤝 Soft Skills
   - Team collaboration
