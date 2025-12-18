@@ -1,20 +1,35 @@
 # Hello 👋 I'm Hastings Chitenje 
 
-[Portfolio](https://github.com/Hastings2004) • [LinkedIn](https://www.linkedin.com/in/hastings-chitenje-482b85389/) • [Email](hastingschitenje@yahoo.com) 
+[🌐Portfolio](https://github.com/Hastings2004) • [💼LinkedIn](https://www.linkedin.com/in/hastings-chitenje-482b85389/) • [📧Email](hastingschitenje@yahoo.com) 
 
-## 🚀 About Me
-- Software Engineer / ICT Student at Mzuzu University 
-- Mzuzu University, Malawi
+## 🚀 Professional Summary
+ - Software Engineer and ICT student at Mzuzu University with practical experience in full-stack web and mobile application development. Proven ability to design, develop, and deploy secure, database-driven systems using Laravel, React, and Flutter. Strong academic and practical interest in network security, cybersecurity, and scalable system design. Motivated to contribute to real-world ICT solutions through internships, collaborative projects, and research-driven development.
 
-## 🛠 Tech Stack
-- Languages: PHP, JavaScript, Dart
-- Frameworks: React, Laravel, Flutter
-- Databases: MySQL, PostgreSQL
-- Tools: Git
+## 🎓 Education
+  - Bachelor of Information and Communication Technology (ICT)
+  - 🏫 Mzuzu University, Malawi
 
-## 📌 Specific Focus
-- Mobile app development 
-- Web development 
+## 🛠️ Technical Skills
+  - 💻 Programming Languages
+    - PHP
+    - JavaScript
+    - Dart
+  - ⚙️ Frameworks & Technologies
+    - Laravel
+    - React
+    - Flutter
+  -🗄️ Databases
+    - MySQL
+    - PostgreSQL
+  - 🧰 Tools & Platforms
+    - Git & GitHub
+    - RESTful APIs
+      
+## 🎯 Areas of Focus
+  - 🌍 Web application development
+  - 📱 Mobile application development
+  - 🛡️ Secure systems design
+  - 🏫 ICT solutions for academic institutions
 
 ## 🚀 Featured Projects
   - **Campus Resource Booking System**  
