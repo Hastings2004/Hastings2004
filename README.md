@@ -18,7 +18,7 @@
     - Laravel
     - React
     - Flutter
-  -🗄️ Databases
+  - 🗄️ Databases
     - MySQL
     - PostgreSQL
   - 🧰 Tools & Platforms
