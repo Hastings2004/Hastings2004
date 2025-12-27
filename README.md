@@ -34,7 +34,7 @@
 ## 🚀 Featured Projects
   - **Campus Resource Booking System**  
     - Web and Mobile app for managing university facilities
-    - Tech: Laravel, MySQL, React  
+    - Tech: Laravel, MySQL, React, Flutter  
     - Role: Full Stack
     - visit: http://192.168.5.20/crba (accessible in local area network)
   - **The Strategy-Led Church**
