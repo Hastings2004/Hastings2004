@@ -48,7 +48,7 @@
     - Role: Full Stack
 
 ## 📚 Currently Learning
-  - Network Security & Firewalls
+  - Cyber threat Management 
   - Clean architecture in Flutter
 
 ## 🎓 Certifications & Training
@@ -57,6 +57,7 @@
   - Cybersecurity Essentials offered by Mzuzu University through the Cisco Networking Academy program.
   - UNESCO hackerthone 2025
   - Networking Essentials offered by MAKATOB Academy through the Cisco Networking Academy program
+  - Network Security offered by Mzuzu University through the Cisco Networking Academy program
 
 ## 🤝 Soft Skills
   - Team collaboration
