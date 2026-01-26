@@ -1,6 +1,6 @@
 # Hello 👋 I'm Hastings Chitenje 
 
-[🌐Portfolio](https://github.com/Hastings2004) • [💼LinkedIn](https://www.linkedin.com/in/hastings-chitenje-482b85389/) • [📧 Email: hastingschitenje@yahoo.com] 
+[🌐Portfolio](https://github.com/Hastings2004) • [💼LinkedIn](https://www.linkedin.com/in/hastings-chitenje-482b85389/) • 📧 Email: hastingschitenje@yahoo.com 
 
 ## 🚀 About Me
  - I am a Software Engineer and Bachelor of ICT student at Mzuzu University, with hands-on experience in full-stack web and mobile application development. I specialize in designing, developing, and deploying secure, scalable, database-driven systems using Laravel, React, and Flutter.
