@@ -47,13 +47,19 @@
     - Online Library for Mzuzu University Kwera Students Climbers
     - Tech: Laravel, MySQL
     - Role: Full Stack
+  - **Wavefy**
+    - A music streaming app
+    - Tech: Express JS, Mongo DB, Flutter
+    - Role: Full Stack
 
 ## 📚 Currently Learning
-  - Cyber threat Management 
+  - React Native 
   - Clean architecture in Flutter
+  - CCNA 1 AND CCNA 2
 
 ## 🎓 Certifications & Training
-  - Ethical Hacker from Cisco Network Academy 
+  - Ethical Hacker from Cisco Network Academy
+  - Cyber Threat Management offered by Mzuzu University through Cisco Networking Academy 
   - Cybersecurity in age of AI: Sector-Specific Threats and Defence from EC-Council
   - Cybersecurity Essentials offered by Mzuzu University through the Cisco Networking Academy program.
   - UNESCO hackerthone 2025
