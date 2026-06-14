@@ -41,7 +41,7 @@ const hastings = {
     devops:    ["Git/GitHub", "Docker", "Linux", "Vercel", "Postman"],
   },
 
-  currentlyLearning: ["React Native", "Clean Architecture in Flutter", "CCNA 1 & 2"],
+  currentlyLearning: ["React Native", "Clean Architecture in Flutter"],
   openTo:            ["Internships", "Freelance", "Collaborative Projects"],
   portfolio:         "https://hastings-portfolio.vercel.app/",
 };
