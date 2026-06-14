@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -143,15 +142,18 @@ const hastings = {
 
 <div align="center">
 
-| Certification | Issuer | Area |
-|--------------|--------|------|
-| 🛡️ Ethical Hacker | Cisco Networking Academy | Offensive Security |
-| 🔐 Cyber Threat Management | Mzuzu University / Cisco | Threat Analysis |
-| 🤖 Cybersecurity in the Age of AI | EC-Council | AI Security |
-| 🔒 Cybersecurity Essentials | Mzuzu University / Cisco | Security Fundamentals |
-| 🌐 Network Security | Mzuzu University / Cisco | Network Defence |
-| 📡 Networking Essentials | MAKATOB Academy / Cisco | Networking |
-| 🏆 UNESCO Hackathon 2025 | UNESCO | Innovation |
+| Certification | Issuer | Area | Date |
+|--------------|--------|------|------|
+| 🌐 **CCNA: Introduction to Networks** | Mzuzu University / Cisco Networking Academy | Networking Fundamentals | May 2026 |
+| 🔀 **CCNA: Switching, Routing & Wireless Essentials** | Mzuzu University / Cisco Networking Academy | Network Infrastructure | May 2026 |
+| 📋 **Project Management Foundations** | LinkedIn Learning | Project Management | Jun 2026 |
+| 🛡️ Ethical Hacker | Cisco Networking Academy | Offensive Security | — |
+| 🔐 Cyber Threat Management | Mzuzu University / Cisco | Threat Analysis | — |
+| 🤖 Cybersecurity in the Age of AI | EC-Council | AI Security | — |
+| 🔒 Cybersecurity Essentials | Mzuzu University / Cisco | Security Fundamentals | — |
+| 🌐 Network Security | Mzuzu University / Cisco | Network Defence | — |
+| 📡 Networking Essentials | MAKATOB Academy / Cisco | Networking | — |
+| 🏆 UNESCO Hackathon 2025 | UNESCO | Innovation | — |
 
 </div>
 
