@@ -29,15 +29,15 @@
 const hastings = {
   name:      "Hastings Chitenje",
   location:  "Lilongwe, Malawi 🇲🇼",
-  education: "BSc ICT — Mzuzu University",
+  education: "Level 4 Student persuing BSc in ICT — Mzuzu University",
   role:      "Full Stack Developer & Cybersecurity Enthusiast",
 
   stack: {
-    frontend:  ["React.js", "HTML5/CSS3", "JavaScript", "Blade"],
+    frontend:  ["React.js", "HTML5/CSS3", "JavaScript", "Blade", "Next"],
     backend:   ["Laravel", "PHP", "Node.js", "Express.js"],
     mobile:    ["Flutter", "Dart", "React Native"],
     databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-    security:  ["Ethical Hacking", "Network Security", "CCNA", "Secure Architecture"],
+    security:  ["Ethical Hacking", "Network Security", "CCNA", "Cybersecurity", "Secure Architecture"],
     devops:    ["Git/GitHub", "Docker", "Linux", "Vercel", "Postman"],
   },
 
@@ -109,7 +109,7 @@ const hastings = {
 | 🏫 **Campus Resource Booking System** | Web & mobile platform for managing university facilities with real-time booking and admin dashboard | `Laravel` `React` `Flutter` `MySQL` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
 | ⛪ **The Strategy-Led Church** | Production church website with events, sermons, and member tools — live deployed | `Laravel` `PHP/Blade` `MySQL` | [![Live](https://img.shields.io/badge/-Live-00C853?logo=vercel)](https://www.thestrategy-ledchurch.com/) [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
 | 📚 **Kwera Digital Library** | Online library platform for Mzuzu University students with digital resource access | `Laravel` `MySQL` `PHP` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
-| 🎵 **Wavefy Music Streaming** | Full-stack music streaming app — Flutter Mobile App and React Web based client + Express/MongoDB backend with playlist management | `Flutter` `Express.js` `MongoDB` `Node.js` | [![Live](https://img.shields.io/badge/-Live-00C853?logo=vercel)](https://wise-streaming-app.vercel.app/) [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
+| 🎵 **Music Streaming** | Full-stack music streaming app — Flutter Mobile App and React Web based client + Express/MongoDB backend with playlist management | `Flutter` `Express.js` `MongoDB` `Node.js` | [![Live](https://img.shields.io/badge/-Live-00C853?logo=vercel)](https://wise-streaming-app.vercel.app/) [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
 | 🛒 **Online Marketing Platform** | E-commerce platform for vendors with inventory management and shopping cart | `PHP` `MySQL` `JavaScript` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004/Online-Marketing-Platform) |
 | 🔐 **RESTful API — Laravel Backend** | Professional JWT-authenticated API with resource management and best practices | `Laravel` `JWT` `MySQL` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004/RESTfull-API-backend-With-Laravel) |
 | 🛒 **Cloudimart E-Commerce** | Cloud-based groceries prototype — Next.js frontend + Laravel REST API | `Next.js` `Laravel` `REST API` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
@@ -146,14 +146,14 @@ const hastings = {
 |--------------|--------|------|------|
 | 🌐 **CCNA: Introduction to Networks** | Mzuzu University / Cisco Networking Academy | Networking Fundamentals | May 2026 |
 | 🔀 **CCNA: Switching, Routing & Wireless Essentials** | Mzuzu University / Cisco Networking Academy | Network Infrastructure | May 2026 |
-| 📋 **Project Management Foundations** | LinkedIn Learning | Project Management | Jun 2026 |
-| 🛡️ Ethical Hacker | Cisco Networking Academy | Offensive Security | — |
-| 🔐 Cyber Threat Management | Mzuzu University / Cisco | Threat Analysis | — |
-| 🤖 Cybersecurity in the Age of AI | EC-Council | AI Security | — |
-| 🔒 Cybersecurity Essentials | Mzuzu University / Cisco | Security Fundamentals | — |
-| 🌐 Network Security | Mzuzu University / Cisco | Network Defence | — |
-| 📡 Networking Essentials | MAKATOB Academy / Cisco | Networking | — |
-| 🏆 UNESCO Hackathon 2025 | UNESCO | Innovation | — |
+| 📋 **Project Management Foundations** | LinkedIn Learning | Project Management | June 2026 |
+| 🛡️ **Ethical Hacker** | Cisco Networking Academy | Offensive Security | October 2025 |
+| 🔐 **Cyber Threat Management** | Mzuzu University / Cisco | Threat Analysis | March 2026 |
+| 🤖 **Cybersecurity in the Age of AI** | EC-Council | AI Security | December 2025 |
+| 🔒 **Cybersecurity Essentials** | Mzuzu University / Cisco | Security Fundamentals | November 2025 |
+| 🌐 **Network Security** | Mzuzu University / Cisco | Network Defence | January 2025 |
+| 📡 **Networking Essentials** | MAKATOB Academy / Cisco | Networking | January 2026 |
+| 🏆 **UNESCO Hackathon 2025** | UNESCO | Innovation | October 2025 |
 
 </div>
 
@@ -165,8 +165,6 @@ const hastings = {
 
 ![React Native](https://img.shields.io/badge/Learning-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter Architecture](https://img.shields.io/badge/Learning-Clean_Architecture_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![CCNA](https://img.shields.io/badge/Studying-CCNA_1_%26_2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
 </div>
 
 ---
@@ -175,7 +173,7 @@ const hastings = {
 
 <div align="center">
 
-**Open to internships, freelance projects, and collaborative ICT challenges.**
+**Freelance projects, and collaborative ICT challenges.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-hastings--portfolio.vercel.app-00D9FF?style=for-the-badge)](https://hastings-portfolio.vercel.app/)
 
