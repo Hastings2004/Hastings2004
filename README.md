@@ -113,7 +113,7 @@ const hastings = {
 | 🛒 **Online Marketing Platform** | E-commerce platform for vendors with inventory management and shopping cart | `PHP` `MySQL` `JavaScript` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004/Online-Marketing-Platform) |
 | 🔐 **RESTful API — Laravel Backend** | Professional JWT-authenticated API with resource management and best practices | `Laravel` `JWT` `MySQL` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004/RESTfull-API-backend-With-Laravel) |
 | 🛒 **Cloudimart E-Commerce** | Cloud-based groceries prototype — Next.js frontend + Laravel REST API | `Next.js` `Laravel` `REST API` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
-| ⚙️ **Dynamic E-Workflow System** | Workflow automation for Mzuzu University — role-based approvals & document routing | `Laravel` `React` `MySQL` |  [![Live](https://img.shields.io/badge/-Live-00C853?logo=vercel)](https://192.168.5.20:4747/)(https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
+| ⚙️ **Dynamic E-Workflow System** | Workflow automation for Mzuzu University — role-based approvals & document routing | `Laravel` `React` `MySQL` |  [![Live](https://img.shields.io/badge/-Live-00C853?logo=vercel)](http://192.168.5.20:4747/)
 
 </div>
 
