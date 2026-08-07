@@ -33,15 +33,16 @@ const hastings = {
   role:      "Full Stack Developer & Cybersecurity Enthusiast",
 
   stack: {
-    frontend:  ["React.js", "HTML5/CSS3", "JavaScript", "Blade", "Next"],
-    backend:   ["Laravel", "PHP", "Node.js", "Express.js"],
+    frontend:  ["React.js", "Next.js", "Vue 3", "HTML5/CSS3", "JavaScript", "Blade"],
+    backend:   ["Laravel", "PHP", "Node.js", "Express.js", "Ruby on Rails (API-only)"],
     mobile:    ["Flutter", "Dart", "React Native"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+    orm:       ["Prisma", "Eloquent", "Active Record"],
     security:  ["Ethical Hacking", "Network Security", "CCNA", "Cybersecurity", "Secure Architecture"],
-    devops:    ["Git/GitHub", "Docker", "Linux", "Vercel", "Postman"],
+    devops:    ["Git/GitHub", "Docker", "Linux", "Vercel", "Render", "Postman"],
   },
 
-  currentlyLearning: ["Vue JS", "Ruby on Rails", "React Native", "Clean Architecture in Flutter"],
+  currentlyLearning: ["Ruby on Rails", "Vue 3", "React Native", "Clean Architecture in Flutter"],
   openTo:            ["Internships", "Freelance", "Collaborative Projects"],
   portfolio:         "https://hastings-portfolio.vercel.app/",
 };
@@ -57,6 +58,7 @@ const hastings = {
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -64,6 +66,7 @@ const hastings = {
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -71,16 +74,18 @@ const hastings = {
 **Backend & Mobile**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Databases**
+**Databases & ORM**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Tools & DevOps**
 
@@ -89,6 +94,7 @@ const hastings = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Security**
@@ -106,6 +112,9 @@ const hastings = {
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
+| 📦 **EGPAF Stock Management System** | Internship project for Elizabeth Glaser Pediatric AIDS Foundation — role-based permissions, stock approval workflow, expiry notifications, CSV/PDF exports | `Ruby on Rails (API)` `Vue 3` `PostgreSQL` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
+| 🏢 **Mlumbwira Investments** | Client business website with full-stack architecture and database-driven content | `Next.js` `Node.js/Express` `PostgreSQL` `Prisma` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
+| 💻 **TKComputers** | Platform for a computer repair & electronics business in Lilongwe — custom navy/red/gold design system | `Next.js` `Vite` `React` `Node.js/Express` `Prisma` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
 | 🏫 **Campus Resource Booking System** | Web & mobile platform for managing university facilities with real-time booking and admin dashboard | `Laravel` `React` `Flutter` `MySQL` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
 | ⛪ **The Strategy-Led Church** | Production church website with events, sermons, and member tools — live deployed | `Laravel` `PHP/Blade` `MySQL` | [![Live](https://img.shields.io/badge/-Live-00C853?logo=vercel)](https://www.thestrategy-ledchurch.com/) [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
 | 📚 **Kwera Digital Library** | Online library platform for Mzuzu University students with digital resource access | `Laravel` `MySQL` `PHP` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
@@ -113,7 +122,7 @@ const hastings = {
 | 🛒 **Online Marketing Platform** | E-commerce platform for vendors with inventory management and shopping cart | `PHP` `MySQL` `JavaScript` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004/Online-Marketing-Platform) |
 | 🔐 **RESTful API — Laravel Backend** | Professional JWT-authenticated API with resource management and best practices | `Laravel` `JWT` `MySQL` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004/RESTfull-API-backend-With-Laravel) |
 | 🛒 **Cloudimart E-Commerce** | Cloud-based groceries prototype — Next.js frontend + Laravel REST API | `Next.js` `Laravel` `REST API` | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/Hastings2004) |
-| ⚙️ **Dynamic E-Workflow System** | Workflow automation for Mzuzu University — role-based approvals & document routing | `Laravel` `React` `MySQL` |  [![Live](https://img.shields.io/badge/-Live-00C853?logo=vercel)](http://192.168.5.20:4747/)
+| ⚙️ **Dynamic E-Workflow System** | Workflow automation for Mzuzu University — role-based approvals & document routing | `Laravel` `React` `MySQL` | [![Live](https://img.shields.io/badge/-Live-00C853?logo=vercel)](http://192.168.5.20:4747/) |
 
 </div>
 
@@ -144,16 +153,16 @@ const hastings = {
 
 | Certification | Issuer | Area | Date |
 |--------------|--------|------|------|
-| 🌐 **CCNA: Introduction to Networks** | Mzuzu University / Cisco Networking Academy | Networking Fundamentals | May 2026 |
-| 🔀 **CCNA: Switching, Routing & Wireless Essentials** | Mzuzu University / Cisco Networking Academy | Network Infrastructure | May 2026 |
 | 📋 **Project Management Foundations** | LinkedIn Learning | Project Management | June 2026 |
-| 🛡️ **Ethical Hacker** | Cisco Networking Academy | Offensive Security | October 2025 |
+| 🔀 **CCNA: Switching, Routing & Wireless Essentials** | Mzuzu University / Cisco Networking Academy | Network Infrastructure | May 2026 |
+| 🌐 **CCNA: Introduction to Networks** | Mzuzu University / Cisco Networking Academy | Networking Fundamentals | May 2026 |
 | 🔐 **Cyber Threat Management** | Mzuzu University / Cisco | Threat Analysis | March 2026 |
+| 📡 **Networking Essentials** | MAKATOB Academy / Cisco | Networking | January 2026 |
 | 🤖 **Cybersecurity in the Age of AI** | EC-Council | AI Security | December 2025 |
+| 🛡️ **Ethical Hacker** | Cisco Networking Academy | Offensive Security | October 2025 |
+| 🏆 **UNESCO Hackathon 2025** | UNESCO | Innovation | October 2025 |
 | 🔒 **Cybersecurity Essentials** | Mzuzu University / Cisco | Security Fundamentals | November 2025 |
 | 🌐 **Network Security** | Mzuzu University / Cisco | Network Defence | January 2025 |
-| 📡 **Networking Essentials** | MAKATOB Academy / Cisco | Networking | January 2026 |
-| 🏆 **UNESCO Hackathon 2025** | UNESCO | Innovation | October 2025 |
 
 </div>
 
@@ -163,8 +172,11 @@ const hastings = {
 
 <div align="center">
 
+![Ruby on Rails](https://img.shields.io/badge/Learning-Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Learning-Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/Learning-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter Architecture](https://img.shields.io/badge/Learning-Clean_Architecture_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 </div>
 
 ---
