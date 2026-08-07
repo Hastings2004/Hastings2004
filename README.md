@@ -29,7 +29,7 @@
 const hastings = {
   name:      "Hastings Chitenje",
   location:  "Lilongwe, Malawi 🇲🇼",
-  education: "Level 4 Student persuing BSc in ICT — Mzuzu University",
+  education: "Pending graduate BSc in ICT — Mzuzu University",
   role:      "Full Stack Developer & Cybersecurity Enthusiast",
 
   stack: {
@@ -41,7 +41,7 @@ const hastings = {
     devops:    ["Git/GitHub", "Docker", "Linux", "Vercel", "Postman"],
   },
 
-  currentlyLearning: ["React Native", "Clean Architecture in Flutter"],
+  currentlyLearning: ["Vue JS", "Ruby on Rails", "React Native", "Clean Architecture in Flutter"],
   openTo:            ["Internships", "Freelance", "Collaborative Projects"],
   portfolio:         "https://hastings-portfolio.vercel.app/",
 };
